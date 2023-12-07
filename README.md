@@ -2,7 +2,7 @@
 Allow user to have a conversation with different AI models, build on OLlama
 
 ## Features
-- Choose from different AI models like GPT-3, Claude, etc.
+- Choose from different AI models from Ollama like Llama 2, Mistral, etc.
 - Have a natural conversation with the selected AI assistant
 - Useful commands like search, run code, etc.
 - Saves chat history to file
